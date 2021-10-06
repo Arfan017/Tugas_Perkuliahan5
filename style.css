@@ -1,0 +1,10 @@
+.content{
+    width: 90%;
+    background-color: rgb(241, 213, 213);
+    margin: auto;
+    border-radius: 5px;
+}
+
+td{
+    padding: 3px;
+}
